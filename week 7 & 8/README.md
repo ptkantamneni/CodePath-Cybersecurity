@@ -17,7 +17,7 @@ Time spent: 8 hours spent in total
 		- [wpincludes/script-loader.php](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/script-loader.php) 
 		- [wpincludes/js/plupload/handlers.js](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/js/plupload/handlers.js)
 	- GIF Walkthrough:  
-	![] (https://media.giphy.com/media/TLCmTIRxjpzR6gwDnl/giphy.gif)
+	![](https://media.giphy.com/media/TLCmTIRxjpzR6gwDnl/giphy.gif)
 	
 2. WordPress 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
 	- Summary:
