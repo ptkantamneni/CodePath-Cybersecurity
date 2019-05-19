@@ -12,10 +12,10 @@ Time spent: 8 hours spent in total
 		- Tested in version: 4.2
 		- Fixed in version: 4.2.15
 	- Steps to recreate:
-		- [Source] (https://hackerone.com/reports/203515)
+		- [Source](https://hackerone.com/reports/203515)
 	- Affected source code:
-		- [wpincludes/script-loader.php] (https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/script-loader.php) 
-		- [wpincludes/js/plupload/handlers.js] (https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/js/plupload/handlers.js)
+		- [wpincludes/script-loader.php](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/script-loader.php) 
+		- [wpincludes/js/plupload/handlers.js](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/js/plupload/handlers.js)
 	- GIF Walkthrough:  
 	![] (https://media.giphy.com/media/TLCmTIRxjpzR6gwDnl/giphy.gif)
 	
@@ -25,11 +25,11 @@ Time spent: 8 hours spent in total
 		- Tested in version: 4.2
 		- Fixed in version: 4.2.13
 	- Steps to recreate:
-		- [Source] (https://seclists.org/oss-sec/2017/q1/563)
+		- [Source](https://seclists.org/oss-sec/2017/q1/563)
 	- Affected source code:
-		- [wp-includes/js/mediaelement/wp-playlist.js] (https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/js/mediaelement/wp-playlist.js)
+		- [wp-includes/js/mediaelement/wp-playlist.js](https://core.trac.wordpress.org/browser/tags/4.2/src/wp-includes/js/mediaelement/wp-playlist.js)
 	- GIF Walkthrough:  
-	![] (https://media.giphy.com/media/ic0VPYcZBjPfMJA8nK/giphy.gif)
+	![](https://media.giphy.com/media/ic0VPYcZBjPfMJA8nK/giphy.gif)
 
 3. WordPress <= 4.2 - Unauthenticated Stored Cross-Site Scripting (XSS)
 	- Summary:
@@ -37,12 +37,12 @@ Time spent: 8 hours spent in total
 		- Tested in version: 4.2
 		- Fixed in version: 4.2.1
 	- Steps to recreate:
-		- [Source] (https://klikki.fi/adv/wordpress2.html)
+		- [Source](https://klikki.fi/adv/wordpress2.html)
 	- GIF Walkthrough:  
-	![] (https://media.giphy.com/media/iGG27wJ18L8vISmXZb/giphy.gif)
+	![](https://media.giphy.com/media/iGG27wJ18L8vISmXZb/giphy.gif)
 
 ## Resources
-- [WordPress Source Browser] (https://core.trac.wordpress.org/browser/)
+- [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
