@@ -2,7 +2,7 @@
 
 Time spent: 8 hours spent in total
 
-> Objective: Find, analyze, recreate, and document 4 culnerabilities affecting an old version of WordPress
+> Objective: Find, analyze, recreate, and document 3 vulnerabilities affecting an old version of WordPress
 
 ## Pentesting Report
 
