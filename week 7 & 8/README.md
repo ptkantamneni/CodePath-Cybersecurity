@@ -45,7 +45,7 @@ Time spent: 8 hours spent in total
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+GIFs created with [LiceCap](http://www.cockos.com/licecap/)
 
 ## License
 
